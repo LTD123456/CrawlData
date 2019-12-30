@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CrawlDataApp")]
+[assembly: AssemblyTitle("CrawlDataApp1")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("CrawlDataApp")]
+[assembly: AssemblyProduct("CrawlDataApp1")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("504a8e2f-1366-4d32-a45a-0bf24c0dcd9d")]
+[assembly: Guid("3f752950-1f5f-41b2-bfa3-069a8833ed86")]
 
 // Version information for an assembly consists of the following four values:
 //

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.779
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlDataApp", "CrawlDataApp\CrawlDataApp.csproj", "{504A8E2F-1366-4D32-A45A-0BF24C0DCD9D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrawlDataApp1", "CrawlDataApp1.csproj", "{3F752950-1F5F-41B2-BFA3-069A8833ED86}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{504A8E2F-1366-4D32-A45A-0BF24C0DCD9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{504A8E2F-1366-4D32-A45A-0BF24C0DCD9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{504A8E2F-1366-4D32-A45A-0BF24C0DCD9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{504A8E2F-1366-4D32-A45A-0BF24C0DCD9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F752950-1F5F-41B2-BFA3-069A8833ED86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F752950-1F5F-41B2-BFA3-069A8833ED86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F752950-1F5F-41B2-BFA3-069A8833ED86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F752950-1F5F-41B2-BFA3-069A8833ED86}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F13B48C3-97F3-4DE3-A0C0-16F2BEBDC229}
+		SolutionGuid = {3FE159DF-55A3-481E-95BB-FC9554EE9E4B}
 	EndGlobalSection
 EndGlobal

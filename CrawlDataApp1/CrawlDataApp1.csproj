@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{504A8E2F-1366-4D32-A45A-0BF24C0DCD9D}</ProjectGuid>
+    <ProjectGuid>{3F752950-1F5F-41B2-BFA3-069A8833ED86}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>CrawlDataApp</RootNamespace>
-    <AssemblyName>CrawlDataApp</AssemblyName>
+    <RootNamespace>CrawlDataApp1</RootNamespace>
+    <AssemblyName>CrawlDataApp1</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
