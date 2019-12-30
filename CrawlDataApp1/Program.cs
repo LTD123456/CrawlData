@@ -30,11 +30,8 @@ namespace CrawlDataApp1
                 //Extract các giá trị từ các tag con của tag li
                 var linkNode = item.SelectSingleNode(".//a[contains(@href,'dtdd')]");
                 var link = "thegioididong.com"+linkNode.Attributes["href"].Value;
-                //var text = linkNode.InnerText;
                 var text = linkNode.SelectSingleNode(".//h3").InnerText;
-                //var readCount = item.SelectSingleNode(".//div[@class='folTypPost']/ul/li/b").InnerText;
                 var price = linkNode.SelectSingleNode(".//div[@class='price']/strong").InnerText;
-                //link = "thegioididong.com" + link;
                 items.Add(new { text, price, link });
             }
         }
